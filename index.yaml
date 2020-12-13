@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  apache:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-13T19:23:18.866851+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 0104b878d209d434309ab003972cd9d641b38e01aa35692f58131fd903001e04
+    name: apache
+    type: application
+    urls:
+    - apache-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-13T19:23:18.859745+01:00"
