@@ -1,6 +1,6 @@
 
 appname: apache
-replicaCount: 2
+replicaCount: 3
 image:
   repository: docker.io/bitnami/apache
   tag: 2.4.41-debian-10-r29
